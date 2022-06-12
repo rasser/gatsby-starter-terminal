@@ -3,7 +3,7 @@ module.exports = {
     name: "RS Christiansen",
     description: "data and analytics",
     keywords: ["tech", "blog", "data", "analytics"],
-    siteUrl: "https://gatsby-starter-terminal.netlify.com",
+    siteUrl: "rbchristiansen.com",
     siteImage: "terminal-open-graph-image.jpg",
     profileImage: ``,
     lang: `en`,
